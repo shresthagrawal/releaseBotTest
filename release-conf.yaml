@@ -1,3 +1,6 @@
+changelog:
+  - Changed Something
+  - Another changelog entry
 # optional:
 # this is info for the authorship of the changelog
 # if this is not set, person who merged the release PR will be used as an author
