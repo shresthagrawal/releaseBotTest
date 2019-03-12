@@ -1,14 +1,7 @@
-changelog:
-  - Changed Something
-  - Another changelog entry
-# optional:
-# this is info for the authorship of the changelog
-# if this is not set, person who merged the release PR will be used as an author
-author_name: Shresth Agrawal
 author_email: shresthagrawal.31@gmail.com
-# list of labels to be put on issues and PRs created by bot
+author_name: Shresth Agrawal
 labels:
-  - bot
-  - release-bot
-  - user-cont
+- bot
+- release-bot
+- user-cont
 trigger_on_issue: true
