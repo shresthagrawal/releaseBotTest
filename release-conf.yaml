@@ -1,7 +1,8 @@
-author_email: shresthagrawal.31@gmail.com
-author_name: Shresth Agrawal
-labels:
-- bot
-- release-bot
-- user-cont
+author_email: 'shresthagrawal.31@gmail.com
+
+  '
+author_name: 'Shresth Agrawal
+
+  '
+labels: []
 trigger_on_issue: true
