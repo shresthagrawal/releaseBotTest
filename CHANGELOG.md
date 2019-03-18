@@ -1,3 +1,6 @@
+# 6.0.1
+
+No changelog provided
 # 5.0.1
 
 * modified release-bot
