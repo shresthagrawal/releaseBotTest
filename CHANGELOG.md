@@ -1,3 +1,10 @@
+# 6.0.2
+
+* Update README.md
+
+# 6.0.1
+
+No changelog provided
 # 5.0.1
 
 * modified release-bot
