@@ -1,3 +1,6 @@
+# 6.0.4
+
+No changelog provided
 # 6.0.3
 
 * Create test
