@@ -1,3 +1,7 @@
+# 6.0.2
+
+* Update README.md
+
 # 6.0.1
 
 No changelog provided
