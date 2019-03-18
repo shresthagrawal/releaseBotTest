@@ -5,4 +5,5 @@ author_name: 'Shresth Agrawal
 
   '
 labels: []
+gitchangelog: true
 trigger_on_issue: true
