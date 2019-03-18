@@ -1,3 +1,12 @@
+# 6.0.5
+
+
+### Other
+
+* Update README.md. [shresthagrawal]
+
+
+
 # 6.0.4
 
 No changelog provided
